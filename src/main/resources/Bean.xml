@@ -1,0 +1,11 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+<!--       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">-->
+<!--    <bean id = "userService" class = "com.deskbooking.deskbooking.service.UserService">-->
+<!--        <property name="jwtUtil">-->
+<!--            <bean class = "com.deskbooking.deskbooking.util.JwtUtil"/>-->
+<!--        </property>-->
+<!--    </bean>-->
+<!--    <bean id="userRepository" class="com.deskbooking.deskbooking.repository.UserRepository" abstract="true"/>-->
+<!--</beans>-->
